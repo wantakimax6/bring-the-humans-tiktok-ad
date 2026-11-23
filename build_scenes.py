@@ -8,7 +8,7 @@
 from PIL import Image, ImageDraw, ImageFont
 import os
 PRESS = "/home/hatch/workspace/makefun/press"
-OUT = "/home/hatch/workspace/makefun/bring-the-humans-03-entry"
+OUT = "/home/hatch/workspace/makefun/tiktok-ad-entry"
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 MAGENTA = (196, 28, 131)
 INK = (25, 20, 25)
